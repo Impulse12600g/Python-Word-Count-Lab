@@ -1,0 +1,7 @@
+Kelvin Lal
+Joshua Mansito
+
+Question: to have the user bring in the previous dictionary, have them import that dictionary
+    from their prospective function
+    code: import filename.location
+            init dictionary
